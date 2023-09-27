@@ -1,3 +1,4 @@
+snowflake
 python-dotenv
 Pillow
 streamlit
@@ -10,4 +11,3 @@ st_clickable_images
 plotly.graph_objects
 streamlit-option-menu
 Markdown
-snowflake
