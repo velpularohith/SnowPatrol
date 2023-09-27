@@ -10,4 +10,4 @@ st_clickable_images
 plotly.graph_objects
 streamlit-option-menu
 Markdown
-Snowflake
+snowflake
