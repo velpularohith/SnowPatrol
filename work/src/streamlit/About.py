@@ -29,11 +29,3 @@ st.set_page_config(
 st.header(":rotating_light: Snowpatrol - License Optimization")
 
 st.divider()
-
-with open("About.md") as markdown_content:
-    for line in markdown_content.readlines():
-        if line.startswith('insert_img'):
-            res = re.search(r'insert_img\((.*),(.*)\)',line)
-            insert_img(res.group(1), res.group(2))
-        else:
-            st.write(line)
