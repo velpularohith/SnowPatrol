@@ -1,6 +1,8 @@
 snowflake
 python-dotenv
 Pillow
+surprise
+python 3.8 
 streamlit
 streamlit-echarts
 streamlit-extras
