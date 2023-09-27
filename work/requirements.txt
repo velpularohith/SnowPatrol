@@ -1,0 +1,12 @@
+python-dotenv
+Pillow
+streamlit
+streamlit-echarts
+streamlit-extras
+streamlit-toggle-switch
+snowflake-snowpark-python
+snowflake-connector-python
+st_clickable_images
+plotly.graph_objects
+streamlit-option-menu
+Markdown
