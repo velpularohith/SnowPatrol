@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 # from snowflake.snowpark import Session
-import snowflake.connector
+# import snowflake.connector
 import snowflake
 import plotly.graph_objects as go
 from app_data_model import SnowpatrolDataModel
