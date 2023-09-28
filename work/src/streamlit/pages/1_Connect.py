@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from snowflake.snowpark import Session
+# from snowflake.snowpark import Session
 import snowflake.connector
 import snowflake
 import plotly.graph_objects as go
