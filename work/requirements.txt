@@ -3,7 +3,6 @@ snowflake
 python-dotenv
 Pillow
 surprise
-python 3.8 
 streamlit
 streamlit-echarts
 streamlit-extras
@@ -11,6 +10,5 @@ streamlit-toggle-switch
 snowflake-connector-python
 st_clickable_images
 plotly.graph_objects
-streamlit-option-menu
-Markdown
+streamlit_option_menu
 snowflake.sqlalchemy
